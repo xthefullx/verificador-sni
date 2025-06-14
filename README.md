@@ -7,5 +7,5 @@ Este projeto Node.js extrai domínios de um site, testa conexões TLS com SNI, r
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/sexthefullx/verificador-sni.git
+git clone https://github.com/xthefullx/verificador-sni.git
 cd verificador-sni
