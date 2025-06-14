@@ -5,7 +5,10 @@ Este projeto Node.js extrai domínios de um site, testa conexões TLS com SNI, r
 ## 🚀 Como usar
 
 ### 1. Clone o repositório
-
+### 2. Instale as dependências: npm install
+### 3. Inicie o bot: npm start
 ```bash
 git clone https://github.com/xthefullx/verificador-sni.git
 cd verificador-sni
+
+
