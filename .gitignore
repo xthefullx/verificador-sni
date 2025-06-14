@@ -1,0 +1,11 @@
+# Ignorar arquivos gerados pelo script
+snis_mpositivas_*.txt
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Outros
+.env
